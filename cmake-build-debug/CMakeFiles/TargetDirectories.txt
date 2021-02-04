@@ -1,0 +1,3 @@
+/cygdrive/c/Users/danny/Desktop/csce313/MP1_Source/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/danny/Desktop/csce313/MP1_Source/cmake-build-debug/CMakeFiles/MP1_Source.dir
+/cygdrive/c/Users/danny/Desktop/csce313/MP1_Source/cmake-build-debug/CMakeFiles/edit_cache.dir
